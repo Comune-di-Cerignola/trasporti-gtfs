@@ -1,10 +1,47 @@
-# trasporti-gtfs
-Open data GTFS del trasporto pubblico del Comune di Cerignola
+# Open Data GTFS del Trasporto Pubblico Locale del Comune di Cerignola
 
-I dati relativi a orari, fermate, percorsi e tariffe sono forniti a fini informativi e possono essere soggetti ad aggiornamenti.
+Il Comune di Cerignola rende disponibili in formato **GTFS (General Transit Feed Specification)** i dati relativi al funzionamento del servizio di Trasporto Pubblico Locale.
 
-Tramite il formato GTFS rendiamo disponibili i dati relativi al funzionamento del sistema del trasporto pubblico del Comune di Cerignola.
-Per una completa descrizione delle specifiche del suddetto formato, si rimanda al seguente indirizzo https://developers.google.com/transit
+Il feed contiene informazioni relative a:
 
-I dati GTFS del Trasporto Pubblico Locale del Comune di Cerignola sono distribuiti con licenza Creative Commons Attribution 4.0 International (CC BY 4.0).  
+- orari delle corse;
+- fermate;
+- percorsi;
+- calendario del servizio;
+- tariffe;
+- modalità di acquisto dei titoli di viaggio.
+
+I dati sono forniti a fini informativi e possono essere soggetti ad aggiornamenti.
+
+Per la descrizione completa dello standard GTFS si rimanda alla documentazione ufficiale:
+https://gtfs.org/
+
+Il feed viene aggiornato in caso di modifiche a orari, percorsi, fermate, calendario di esercizio o tariffe.
+
+## Gestore del servizio
+
+Il servizio di Trasporto Pubblico Locale è gestito da:
+
+**Società Trasporti Cerignola s.c.a.r.l. (STC)**
+
+
+## Licenza
+
+I dati GTFS del Trasporto Pubblico Locale del Comune di Cerignola sono distribuiti con licenza **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
 È consentito utilizzare, modificare e ridistribuire i dati, anche per finalità commerciali, a condizione di attribuire la fonte.
+
+Attribuzione consigliata:
+**Comune di Cerignola – Trasporto Pubblico Locale / STC Cerignola**
+
+Per maggiori informazioni sulla licenza:
+https://creativecommons.org/licenses/by/4.0/
+
+## Contatti
+
+**Comune di Cerignola**
+
+Sito istituzionale:  
+https://comune.cerignola.fg.it/
+
+Per informazioni relative al servizio di Trasporto Pubblico Locale:
+https://www.busmiccolis.it/tpl-cerignola/
