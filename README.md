@@ -1,6 +1,6 @@
 # Open Data GTFS del Trasporto Pubblico Locale del Comune di Cerignola
 
-Il Comune di Cerignola rende disponibili in formato **GTFS (General Transit Feed Specification)** i dati relativi al funzionamento del servizio di Trasporto Pubblico Locale.
+Il Comune di Cerignola rende disponibili in formato **GTFS (General Transit Feed Specification)** i dati relativi al funzionamento del servizio di Trasporto Pubblico Locale - Linea 4.
 
 Il feed contiene informazioni relative a:
 
@@ -31,7 +31,7 @@ I dati GTFS del Trasporto Pubblico Locale del Comune di Cerignola sono distribui
 È consentito utilizzare, modificare e ridistribuire i dati, anche per finalità commerciali, a condizione di attribuire la fonte.
 
 Attribuzione consigliata:
-**Comune di Cerignola – Trasporto Pubblico Locale / STC Cerignola**
+**Comune di Cerignola / STC Cerignola**
 
 Per maggiori informazioni sulla licenza:
 https://creativecommons.org/licenses/by/4.0/
